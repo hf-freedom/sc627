@@ -1,0 +1,10 @@
+server:
+  port: 8004
+
+spring:
+  application:
+    name: coupon-risk-control
+
+logging:
+  level:
+    com.coupon: DEBUG
